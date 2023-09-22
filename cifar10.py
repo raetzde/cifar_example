@@ -46,7 +46,7 @@ def main():
     ########################################################################
     # Zeigt ein paar Bilder und die zugehörigen Label des Trainingdatensatzes an
     data_iter = iter(train_loader)
-    images, labels = data_iter.next()
+    images, labels = data_iter.__next__()
     # Zeigt die übergebenen Bilder mit echtem Label (oben)
     visualize_images(images, labels, classes)
 
