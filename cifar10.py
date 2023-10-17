@@ -14,6 +14,10 @@ MODEL_PATH = './cifar_net_2epochs.pth'
 TRAIN = True
 
 
+# Quellcodeändeurng von rhelm
+
+
+
 # Die Funktion wird als erstes aufgerufen, wenn das Programm gestartet wird
 def main():
     ########################################################################
