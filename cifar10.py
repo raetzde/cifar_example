@@ -6,7 +6,7 @@ import torchvision
 import torchvision.transforms as transforms
 
 from utils import visualize_images
-
+# Test
 # Pfad in welches das fertige Model gespeichert wird und von welchem ein trainiertes Model geladen wird
 MODEL_PATH = './cifar_net_2epochs.pth'
 # Auf False setzen, wenn man das Model nicht erneut trainieren will, sondern nur ein bestehendes Model testen will
