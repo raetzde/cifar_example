@@ -16,6 +16,7 @@ TRAIN = True
 
 
 # Quellcodeändeurng von rhelm
+# Ich möchte mich auch verewigen
 
 
 
