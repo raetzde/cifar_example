@@ -29,6 +29,7 @@ def main():
     # Hier werden der Trainings- und Testdatensatz geladen. Beim ersten Lauf des Programms werden diese automatisch
     # heruntergeladen und im data Ordner gespeichert. Der Trainingsdatensatz enthält 50.000 Bilder, der Testdatensatz
     # 10.000 weitere.
+    # Mehr Änderungen von Giesau
     # Die Loader, die gebaut werden, dienen dazu die Iteration über die Bilder des Datensatzes zu vereinfachen. Sie
     # zerlegen den Datensatz in Batches (Gruppen) der angegebenen Größe und mischen diesen auch automatisch.
 
